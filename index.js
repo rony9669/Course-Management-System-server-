@@ -24,8 +24,8 @@ app.get("/courseDetails", (req, res) => {
 
 app.get("/courseDetails/:id", (req, res) => {
   const id = req.params.id;
-  const courseDetails = courseDetails.filter((data) => data.id == id);
-  res.send(courseDetails);
+  const details = courseDetails.filter((data) => data.id == id);
+  res.send(details);
 });
 
 app.listen(port, () => {
