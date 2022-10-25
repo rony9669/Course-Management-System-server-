@@ -2,42 +2,36 @@
   {
     "id": "1",
     "name": "Computer Networks",
-    "description": "A computer network is a set of computers sharing resources located on.",
     "time": "35hour",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrkaroVKgOcwmZ5MF36NpefXtj7RFkKP91w&usqp=CAU"
   },
   {
     "id": "2",
     "name": "Machine Learning",
-    "description": "The subject will make students learn about the concept of computer algorithms .",
     "time": "40hour",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLaXTxLL-SkJ4INakh_8OeuNANRANpIqRvQ&usqp=CAU"
   },
   {
     "id": "3",
     "name": "Data Mining",
-    "description": "The subject provides an insight into various concepts.",
     "time": "45hour",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnU3HkXBQDlQ7dmSk0V0yB_gZIm2nHG_zMQ&usqp=CAU"
   },
   {
     "id": "4",
     "name": "Network Programming",
-    "description": "The subject provides knowledge about network programming concepts in the UNIX environment.",
     "time": "30hour",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpX5G56hE1BfMf5SnislKlgLxMH0f2va1gtg&usqp=CAU"
   },
   {
     "id": "5",
     "name": "Operating System",
-    "description": "An operating system (OS) is system software that manages computer hardware",
     "time": " 45hour",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVW8BLMd_lX_DsD1pvK2q2Bc862vdBfy4Iw&usqp=CAU"
   },
   {
     "id": "6",
     "name": "Bio-Informatics",
-    "description": "This subject teaches students about algorithms, data structures, and areas of application in bioinformatics.",
     "time": "45hour",
     "img": "https://academic.oup.com/data/sitebuilderassetsoriginals/live/images/bioinformatics/bioinformatics_ogimage.png"
   }

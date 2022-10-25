@@ -8,6 +8,7 @@ app.use(cors());
 const port = process.env.PORT || 5000;
 
 const coursesData = require("./coursesData.json");
+const courseDetails = require("./courseDetails.json");
 
 app.get("/", (req, res) => {
   res.send("now server is running");
@@ -15,6 +16,16 @@ app.get("/", (req, res) => {
 
 app.get("/courses", (req, res) => {
   res.send(coursesData);
+});
+
+app.get("/courseDetails", (req, res) => {
+  res.send(courseDetails);
+});
+
+app.get("/courseDetails/:id", (req, res) => {
+  const id = req.params.id;
+  const courseDetails = courseDetails.filter((data) => data.id == id);
+  res.send(courseDetails);
 });
 
 app.listen(port, () => {
