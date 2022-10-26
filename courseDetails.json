@@ -6,7 +6,8 @@
     "credit": 3,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrkaroVKgOcwmZ5MF36NpefXtj7RFkKP91w&usqp=CAU",
     "book": "Computer Networks and Open System",
-    "author": "F. Hallsall."
+    "author": "F. Hallsall.",
+    "price": "105 $"
   },
   {
     "id": "2",
@@ -15,7 +16,8 @@
     "credit": 3.5,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLaXTxLL-SkJ4INakh_8OeuNANRANpIqRvQ&usqp=CAU",
     "book": "The Machine Learning Approach",
-    "author": "Pierre Baldi."
+    "author": "Pierre Baldi.",
+    "price": "130$"
   },
   {
     "id": "3",
@@ -24,7 +26,8 @@
     "credit": 3,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnU3HkXBQDlQ7dmSk0V0yB_gZIm2nHG_zMQ&usqp=CAU",
     "book": "Introduction to Data Minings",
-    "author": "Md. Steinbach & Kumar"
+    "author": "Md. Steinbach & Kumar",
+    "price": "105 $"
   },
   {
     "id": "4",
@@ -33,7 +36,8 @@
     "credit": 4,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpX5G56hE1BfMf5SnislKlgLxMH0f2va1gtg&usqp=CAU",
     "book": "Advanced Programming in the UNIX(R) Environment",
-    "author": "W. Richard Stevens."
+    "author": "W. Richard Stevens.",
+    "price": "100 $"
   },
   {
     "id": "5",
@@ -42,7 +46,8 @@
     "credit": 2,
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVW8BLMd_lX_DsD1pvK2q2Bc862vdBfy4Iw&usqp=CAU",
     "book": "Computer Networks: Protocols Standard and Interfaces",
-    "author": "U. D. Black."
+    "author": "U. D. Black.",
+    "price": "120 $"
   },
   {
     "id": "6",
@@ -51,6 +56,7 @@
     "credit": 3,
     "img": "https://academic.oup.com/data/sitebuilderassetsoriginals/live/images/bioinformatics/bioinformatics_ogimage.png",
     "book": "Bioinformatics for Dummies",
-    "author": "Claverie, J. M. and Notredame C."
+    "author": "Claverie, J. M. and Notredame C.",
+    "price": "95 $"
   }
 ]
