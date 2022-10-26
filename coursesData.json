@@ -3,36 +3,36 @@
     "id": "1",
     "name": "Computer Networks",
     "time": "35hour",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrkaroVKgOcwmZ5MF36NpefXtj7RFkKP91w&usqp=CAU"
+    "img": "https://i.postimg.cc/T10XLVCj/Computer-Networking.jpg"
   },
   {
     "id": "2",
     "name": "Machine Learning",
     "time": "40hour",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLaXTxLL-SkJ4INakh_8OeuNANRANpIqRvQ&usqp=CAU"
+    "img": "https://i.postimg.cc/fbJ1W4Gv/Machine-Learning.jpg"
   },
   {
     "id": "3",
     "name": "Data Mining",
     "time": "45hour",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnU3HkXBQDlQ7dmSk0V0yB_gZIm2nHG_zMQ&usqp=CAU"
+    "img": "https://i.postimg.cc/HkCL7zY5/Data-Mining.jpg"
   },
   {
     "id": "4",
     "name": "Network Programming",
     "time": "30hour",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpX5G56hE1BfMf5SnislKlgLxMH0f2va1gtg&usqp=CAU"
+    "img": "https://i.postimg.cc/ZKdHVbr3/net-prog.jpg"
   },
   {
     "id": "5",
     "name": "Operating System",
     "time": " 45hour",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVW8BLMd_lX_DsD1pvK2q2Bc862vdBfy4Iw&usqp=CAU"
+    "img": "https://i.postimg.cc/SK0Gwwf5/Operating-Systems.jpg"
   },
   {
     "id": "6",
     "name": "Bio-Informatics",
     "time": "45hour",
-    "img": "https://academic.oup.com/data/sitebuilderassetsoriginals/live/images/bioinformatics/bioinformatics_ogimage.png"
+    "img": "https://i.postimg.cc/T3q4JVbB/BIO.jpg"
   }
 ]
