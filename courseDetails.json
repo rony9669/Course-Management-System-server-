@@ -7,7 +7,8 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIrkaroVKgOcwmZ5MF36NpefXtj7RFkKP91w&usqp=CAU",
     "book": "Computer Networks and Open System",
     "author": "F. Hallsall.",
-    "price": "105$"
+    "price": "105$",
+    "download_link": "https://drive.google.com/uc?export=download&id=1NXH75zqssFwU7UykAiGfSc5Dij9052U4"
   },
   {
     "id": "2",
@@ -17,7 +18,8 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcLaXTxLL-SkJ4INakh_8OeuNANRANpIqRvQ&usqp=CAU",
     "book": "The Machine Learning Approach",
     "author": "Pierre Baldi.",
-    "price": "130$"
+    "price": "130$",
+    "download_link": "https://drive.google.com/uc?export=download&id=109qzeuXp0e3VlDCkXmTv1-jej61YHqSw"
   },
   {
     "id": "3",
@@ -27,7 +29,8 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQnU3HkXBQDlQ7dmSk0V0yB_gZIm2nHG_zMQ&usqp=CAU",
     "book": "Introduction to Data Minings",
     "author": "Md. Steinbach & Kumar",
-    "price": "105$"
+    "price": "105$",
+    "download_link": "https://drive.google.com/uc?export=download&id=1SrSRFmKV5Gm5mHYakqtT_1ntHqG6fXrR"
   },
   {
     "id": "4",
@@ -37,7 +40,8 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpX5G56hE1BfMf5SnislKlgLxMH0f2va1gtg&usqp=CAU",
     "book": "Advanced Programming in the UNIX(R) Environment",
     "author": "W. Richard Stevens.",
-    "price": "100$"
+    "price": "100$",
+    "download_link": "https://drive.google.com/uc?export=download&id=1TKfi_uckO0BxIeouo-wkanqHKx-VknM3"
   },
   {
     "id": "5",
@@ -47,7 +51,8 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVW8BLMd_lX_DsD1pvK2q2Bc862vdBfy4Iw&usqp=CAU",
     "book": "Computer Networks: Protocols Standard and Interfaces",
     "author": "U. D. Black.",
-    "price": "120$"
+    "price": "120$",
+    "download_link": "https://drive.google.com/uc?export=download&id=1za1RIZ9lM7JEin1esZlAqbCRggmCLAo0"
   },
   {
     "id": "6",
@@ -57,6 +62,7 @@
     "img": "https://academic.oup.com/data/sitebuilderassetsoriginals/live/images/bioinformatics/bioinformatics_ogimage.png",
     "book": "Bioinformatics for Dummies",
     "author": "Claverie, J. M. and Notredame C.",
-    "price": "95$"
+    "price": "95$",
+    "download_link": "https://drive.google.com/uc?export=download&id=10rFFOJmf_2DEuxVX7zgseIdp4p3WTWTl"
   }
 ]
